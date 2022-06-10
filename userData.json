@@ -42,5 +42,10 @@
     "studying",
     "eating",
     "procrastinating"
-  ]
+  ],
+  "contactUs":{
+    "email":"mad_lab@gmail.com",
+    "phoneNo":"+923003333333",
+    "address":"House#123, St#0, Wakanda, Wadiya"
+  }
 }
