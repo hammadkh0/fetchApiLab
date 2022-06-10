@@ -1,12 +1,45 @@
 {
-  "name":"Muhammad Hammad Khalid",
-  "email":"hammad@gmail.com",
-  "website":"https://www.rataalada.com",
-  "address":"House#1, St#2, Islamabad",
-  "socialLinks":[
-    {"link":"https://www.facebook.com/kashif.rana.737"},
-    {"link":"https://www.instagram.com/profshahbaz"},
-    {"link":"https://www.youtube.com/c/Hagerty"}
-  ],
-  "profilePic":"https://data.whicdn.com/images/268523433/original.jpg"
+  "aboutMe":{
+    "name":"Muhammad Hammad Khalid",
+    "email":"hammad@gmail.com",
+    "website":"https://www.rataalada.com",
+    "address":"House#1, St#2, Islamabad",
+    "socialLinks":[
+      {"link":"https://www.facebook.com/kashif.rana.737"},
+      {"link":"https://www.instagram.com/profshahbaz"},
+      {"link":"https://www.youtube.com/c/Hagerty"}
+    ],
+    "profilePic":"https://data.whicdn.com/images/268523433/original.jpg"
+  },
+  "skills":{
+    "languages":[
+      "python",
+      "java",
+      "c++",
+      "javascript",
+      "React",
+      "Node",
+      "HTML/CSS",
+      "SQL",
+      "MongoDB",
+    ],
+    "tools":[
+      "Github",
+      "Postman",
+      "Figma",
+      "VSCode",
+      "tailwindcss"
+    ]
+  },
+  "education":{
+    "school": "Siddeeq Public School aka Torture Cell",
+    "college": "Punjab College lol xD",
+    "university": "Comsats aka lumber 1 uni"
+  },
+  "work":{
+    "freelancing",
+    "studying",
+    "eating",
+    "procrastinating"
+  }
 }
