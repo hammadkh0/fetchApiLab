@@ -1,0 +1,23 @@
+{
+	"languages":[
+		"python",
+		"java",
+		"c++",
+		"javascript",
+		"React",
+		"Node/Express",
+		"HTML/CSS",
+		"SQL",
+		"MongoDB",
+		"Laravel"
+	],
+	"tools":[
+		"Github",
+		"Postman",
+		"Figma",
+		"VSCode",
+		"Android Studio",
+		"XAMPP",
+		"tailwindcss"
+	]
+}
