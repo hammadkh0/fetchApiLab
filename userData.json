@@ -21,7 +21,7 @@
       "Node",
       "HTML/CSS",
       "SQL",
-      "MongoDB",
+      "MongoDB"
     ],
     "tools":[
       "Github",
@@ -36,10 +36,10 @@
     "college": "Punjab College lol xD",
     "university": "Comsats aka lumber 1 uni"
   },
-  "work":{
+  "work":[
     "freelancing",
     "studying",
     "eating",
     "procrastinating"
-  }
+  ]
 }
